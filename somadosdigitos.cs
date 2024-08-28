@@ -11,7 +11,7 @@ namespace somadosdigitos
             int digito;
             int soma = 0;
 
-            Console.Write("Digite um número: ");
+            Console.Write("Digite um número aqui: ");
 
             numero = Convert.ToInt32(Console.ReadLine());
 
